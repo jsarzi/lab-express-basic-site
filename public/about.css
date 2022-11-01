@@ -1,0 +1,29 @@
+img {
+  width: 300px;
+}
+
+.classAbout {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 2%;
+}
+
+.classAbout h2 {
+  font-size: 15px;
+}
+.weather {
+  width: 21.5%;
+}
+
+.muertos {
+  width: 21.5%;
+}
+
+.paddind {
+  margin-top: 10%;
+}
+
+.padding {
+  margin-top: 20%;
+}
